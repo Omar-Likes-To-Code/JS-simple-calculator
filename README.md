@@ -6,3 +6,7 @@ a simple JS calculator app to help refresh my Java script, HTML, and CSS sklills
 i also added an error catching feature for invalid operations
 
 ![js calc error](https://github.com/Omar-Likes-To-Code/JS-simple-calculator/assets/135728720/a059367b-1e8e-4908-a249-a9ba4a36d80d)
+
+added a new feature that calculates the square root
+
+![image](https://github.com/Omar-Likes-To-Code/JS-simple-calculator/assets/135728720/c93763af-22af-43bb-965b-d5adb65c03f8)
